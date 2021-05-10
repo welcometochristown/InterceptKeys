@@ -1,7 +1,7 @@
 # InterceptKeys
 Small library used to intercept global key presses
 
-#Usage
+# Usage
 
         public Form1()
         {
